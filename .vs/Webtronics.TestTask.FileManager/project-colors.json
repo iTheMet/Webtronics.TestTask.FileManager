@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8cf0c06f-6240-4678-af18-44e31b0386e9": {
+      "ProjectGuid": "8cf0c06f-6240-4678-af18-44e31b0386e9",
+      "DisplayName": "FileManager.WPF.UI",
+      "ColorIndex": 0
+    },
+    "c17de927-61aa-44cb-be2e-b25570a3056a": {
+      "ProjectGuid": "c17de927-61aa-44cb-be2e-b25570a3056a",
+      "DisplayName": "FileManager.Avalonia.UI",
+      "ColorIndex": 1
+    },
+    "82779bcb-ed45-455a-83eb-31542c377fac": {
+      "ProjectGuid": "82779bcb-ed45-455a-83eb-31542c377fac",
+      "DisplayName": "FileManager.Shared.ViewModels",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

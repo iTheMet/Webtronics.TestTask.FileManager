@@ -1,0 +1,17 @@
+﻿using System;
+using System.Windows;
+
+namespace Explorer.WPF.UI
+{
+    public partial class App
+    {
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            base.OnActivated(e);
+
+            var mainWindow = new MainWindow();
+
+            mainWindow.Show();
+        }
+    }
+}

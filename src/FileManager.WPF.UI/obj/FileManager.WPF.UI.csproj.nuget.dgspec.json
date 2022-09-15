@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\Explorer.WPF.UI\\FileManager.WPF.UI.csproj": {}
+  },
+  "projects": {
+    "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\Core\\FileManager.Shared.ViewModels\\FileManager.Shared.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\Core\\FileManager.Shared.ViewModels\\FileManager.Shared.ViewModels.csproj",
+        "projectName": "FileManager.Shared.ViewModels",
+        "projectPath": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\Core\\FileManager.Shared.ViewModels\\FileManager.Shared.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\ITheM\\.nuget\\packages\\",
+        "outputPath": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\Core\\FileManager.Shared.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "R:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ITheM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\Explorer.WPF.UI\\FileManager.WPF.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\Explorer.WPF.UI\\FileManager.WPF.UI.csproj",
+        "projectName": "FileManager.WPF.UI",
+        "projectPath": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\Explorer.WPF.UI\\FileManager.WPF.UI.csproj",
+        "packagesPath": "C:\\Users\\ITheM\\.nuget\\packages\\",
+        "outputPath": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\Explorer.WPF.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "R:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ITheM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\Core\\FileManager.Shared.ViewModels\\FileManager.Shared.ViewModels.csproj": {
+                "projectPath": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\Core\\FileManager.Shared.ViewModels\\FileManager.Shared.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

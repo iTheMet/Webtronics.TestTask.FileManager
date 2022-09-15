@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fody/6.6.3": {},
+      "PropertyChanged.Fody/4.0.2": {
+        "dependencies": {
+          "Fody": "6.6.3"
+        },
+        "runtime": {
+          "lib/netstandard2.1/PropertyChanged.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fody/6.6.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X1WKKgSNYVtLzdO8dK3YWmfmljA4L0soePcWNouq9X6WbVF4bmivuJdlhTZx/2L3ml6tMvhFe8skIbVQ24PAYA==",
+      "path": "fody/6.6.3",
+      "hashPath": "fody.6.6.3.nupkg.sha512"
+    },
+    "PropertyChanged.Fody/4.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iG6R+8gEeYK1Hp2ucvM9+VsKK4R7ScK7tlz8/f296cz2g1k+7/7hgCZVlP+hEdUoJreEAkkfBgr6eZp+7e7jmg==",
+      "path": "propertychanged.fody/4.0.2",
+      "hashPath": "propertychanged.fody.4.0.2.nupkg.sha512"
+    }
+  }
+}

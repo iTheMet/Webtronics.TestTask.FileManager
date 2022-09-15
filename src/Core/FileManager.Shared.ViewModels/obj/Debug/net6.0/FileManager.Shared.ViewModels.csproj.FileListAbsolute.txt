@@ -1,0 +1,14 @@
+R:\Документы\GIT\Webtronics.TestTask.FileManager\Core\FileManager.Shared.ViewModels\bin\Debug\net6.0\FileManager.Shared.ViewModels.deps.json
+R:\Документы\GIT\Webtronics.TestTask.FileManager\Core\FileManager.Shared.ViewModels\bin\Debug\net6.0\FileManager.Shared.ViewModels.dll
+R:\Документы\GIT\Webtronics.TestTask.FileManager\Core\FileManager.Shared.ViewModels\bin\Debug\net6.0\ref\FileManager.Shared.ViewModels.dll
+R:\Документы\GIT\Webtronics.TestTask.FileManager\Core\FileManager.Shared.ViewModels\bin\Debug\net6.0\FileManager.Shared.ViewModels.pdb
+R:\Документы\GIT\Webtronics.TestTask.FileManager\Core\FileManager.Shared.ViewModels\obj\Debug\net6.0\FileManager.Shared.ViewModels.csproj.AssemblyReference.cache
+R:\Документы\GIT\Webtronics.TestTask.FileManager\Core\FileManager.Shared.ViewModels\obj\Debug\net6.0\FileManager.Shared.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+R:\Документы\GIT\Webtronics.TestTask.FileManager\Core\FileManager.Shared.ViewModels\obj\Debug\net6.0\FileManager.Shared.ViewModels.AssemblyInfoInputs.cache
+R:\Документы\GIT\Webtronics.TestTask.FileManager\Core\FileManager.Shared.ViewModels\obj\Debug\net6.0\FileManager.Shared.ViewModels.AssemblyInfo.cs
+R:\Документы\GIT\Webtronics.TestTask.FileManager\Core\FileManager.Shared.ViewModels\obj\Debug\net6.0\FileManager.Shared.ViewModels.csproj.CoreCompileInputs.cache
+R:\Документы\GIT\Webtronics.TestTask.FileManager\Core\FileManager.Shared.ViewModels\obj\Debug\net6.0\FileManager.Shared.ViewModels.dll
+R:\Документы\GIT\Webtronics.TestTask.FileManager\Core\FileManager.Shared.ViewModels\obj\Debug\net6.0\ref\FileManager.Shared.ViewModels.dll
+R:\Документы\GIT\Webtronics.TestTask.FileManager\Core\FileManager.Shared.ViewModels\obj\Debug\net6.0\FileManager.Shared.ViewModels.pdb
+R:\Документы\GIT\Webtronics.TestTask.FileManager\Core\FileManager.Shared.ViewModels\obj\Debug\net6.0\FileManager.Shared.ViewModels.csproj.Fody.CopyLocal.cache
+R:\Документы\GIT\Webtronics.TestTask.FileManager\Core\FileManager.Shared.ViewModels\obj\Debug\net6.0\FileManager.Shared.ViewModels.csproj.Fody.RuntimeCopyLocal.cache
