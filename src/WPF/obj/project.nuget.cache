@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zFijc/ayfs/WdY/tBUpHeFiXgClxv14L0oE1tvN1QuQtfYWu6pUtJNTbW1YSZq478PrRsJcFASbM+t6U6CzKlg==",
+  "success": true,
+  "projectFilePath": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\src\\WPF\\FileManager.WPF.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ITheM\\.nuget\\packages\\fody\\6.6.3\\fody.6.6.3.nupkg.sha512",
+    "C:\\Users\\ITheM\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\ITheM\\.nuget\\packages\\propertychanged.fody\\4.0.2\\propertychanged.fody.4.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

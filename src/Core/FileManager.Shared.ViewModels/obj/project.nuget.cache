@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UUrzOt27OPDegq75Ku66ZCWXzKA768PbZGo8/sbTuAwkz4VdMrsgsCaaAe0K7AiyjPeoV1lqThhO6ZtluDM+/g==",
+  "dgSpecHash": "76diaNN5JA96aVAF5+p9zKPICzzXqZLghgiJ2e+vy5y+uy8t0f2ev5TX0uKY3m27BAFqDo18gOzROhILVREQBA==",
   "success": true,
-  "projectFilePath": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\Core\\FileManager.Shared.ViewModels\\FileManager.Shared.ViewModels.csproj",
+  "projectFilePath": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\src\\Core\\FileManager.Shared.ViewModels\\FileManager.Shared.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ITheM\\.nuget\\packages\\fody\\6.6.3\\fody.6.6.3.nupkg.sha512",
     "C:\\Users\\ITheM\\.nuget\\packages\\propertychanged.fody\\4.0.2\\propertychanged.fody.4.0.2.nupkg.sha512"

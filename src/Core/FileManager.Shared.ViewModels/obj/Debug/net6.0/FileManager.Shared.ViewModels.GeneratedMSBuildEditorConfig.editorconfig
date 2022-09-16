@@ -8,4 +8,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FileManager.Shared.ViewModels
-build_property.ProjectDir = R:\Документы\GIT\Webtronics.TestTask.FileManager\Core\FileManager.Shared.ViewModels\
+build_property.ProjectDir = R:\Документы\GIT\Webtronics.TestTask.FileManager\src\Core\FileManager.Shared.ViewModels\

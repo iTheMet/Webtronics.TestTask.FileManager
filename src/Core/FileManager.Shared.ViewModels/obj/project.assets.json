@@ -94,11 +94,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\Core\\FileManager.Shared.ViewModels\\FileManager.Shared.ViewModels.csproj",
+      "projectUniqueName": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\src\\Core\\FileManager.Shared.ViewModels\\FileManager.Shared.ViewModels.csproj",
       "projectName": "FileManager.Shared.ViewModels",
-      "projectPath": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\Core\\FileManager.Shared.ViewModels\\FileManager.Shared.ViewModels.csproj",
+      "projectPath": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\src\\Core\\FileManager.Shared.ViewModels\\FileManager.Shared.ViewModels.csproj",
       "packagesPath": "C:\\Users\\ITheM\\.nuget\\packages\\",
-      "outputPath": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\Core\\FileManager.Shared.ViewModels\\obj\\",
+      "outputPath": "R:\\Документы\\GIT\\Webtronics.TestTask.FileManager\\src\\Core\\FileManager.Shared.ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "R:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

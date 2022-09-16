@@ -9,9 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{408B687C-B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Avalonia.UI", "Avalonia.UI", "{0BE0E006-00D8-4129-9712-3B43A3F58B31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManager.WPF.UI", "Explorer.WPF.UI\FileManager.WPF.UI.csproj", "{8CF0C06F-6240-4678-AF18-44E31B0386E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManager.WPF.UI", "WPF\FileManager.WPF.UI.csproj", "{8CF0C06F-6240-4678-AF18-44E31B0386E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManager.Avalonia.UI", "FileManager.Avalonia.UI\FileManager.Avalonia.UI.csproj", "{C17DE927-61AA-44CB-BE2E-B25570A3056A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManager.Avalonia.UI", "AvaloniaUI\FileManager.Avalonia.UI\FileManager.Avalonia.UI.csproj", "{C17DE927-61AA-44CB-BE2E-B25570A3056A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManager.Shared.ViewModels", "Core\FileManager.Shared.ViewModels\FileManager.Shared.ViewModels.csproj", "{82779BCB-ED45-455A-83EB-31542C377FAC}"
 EndProject
